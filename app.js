@@ -56,7 +56,7 @@ function chooseBruce() {
     }
     return chosenPerson = 'bruce',
         getQuotebtn.disabled = false,
-        getQuotebtn.style.borderColor = 'white',
+        getQuotebtn.style.borderColor = '#c85515',
         document.getElementById("bruce").style.borderColor = "red",
         console.log('bruce selected'),
         console.log(chosenPerson);
@@ -71,7 +71,7 @@ function chooseCharlie() {
     }
     return chosenPerson = 'charlie',
         getQuotebtn.disabled = false,
-        getQuotebtn.style.borderColor = 'white',
+        getQuotebtn.style.borderColor = '#c85515',
         document.getElementById("charlie").style.borderColor = "red",
         console.log('charlie selected'),
         console.log(chosenPerson);
@@ -86,7 +86,7 @@ function chooseMartin() {
     }
     return chosenPerson = 'martin',
         getQuotebtn.disabled = false,
-        getQuotebtn.style.borderColor = 'white',
+        getQuotebtn.style.borderColor = '#c85515',
         document.getElementById("martin").style.borderColor = "red",
         console.log('martin selected'),
         console.log(chosenPerson);
@@ -101,7 +101,7 @@ function chooseStan() {
     }
     return chosenPerson = 'stan',
         getQuotebtn.disabled = false,
-        getQuotebtn.style.borderColor = 'white',
+        getQuotebtn.style.borderColor = '#c85515',
         document.getElementById("stan").style.borderColor = "red",
         console.log('stan selected'),
         console.log(chosenPerson);
@@ -116,7 +116,7 @@ function chooseMark() {
     }
     return chosenPerson = 'mark',
         getQuotebtn.disabled = false,
-        getQuotebtn.style.borderColor = 'white',
+        getQuotebtn.style.borderColor = '#c85515',
         document.getElementById("mark").style.borderColor = "red",
         console.log('mark selected'),
         console.log(chosenPerson);
